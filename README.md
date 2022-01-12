@@ -1,3 +1,4 @@
-# 16321_Python_Coursework
+# Brick Breaker
 
-This is the repository for the Python Coursework named: 16321-Cwk-S-Python Coursework
+Python game built with Tkinter for university module 16321: Introduction to Programming. </br>
+Run `python3 main.py` to play.
